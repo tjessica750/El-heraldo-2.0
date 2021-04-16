@@ -1,0 +1,39 @@
+CASO HTML-Bootstrap
+
+La presente es desarrollar este caso en el que puedan aplicar los conocimientos vistos en clase sobre bootstrap.
+
+Caso 1:
+
+ 
+
+La agencia ResDigital quiere crear un nuevo diseño de la página web del Heraldo que le permita distribuir su contenido de forma ordenada y agradable a sus lectores, esta página debe contar lo siguiente:
+
+ 
+
+*  Un Encabezado : con el nombre de la empresa (El Heraldo) esta debe ir centrada en la mitad
+
+* Un menú con 5 secciones: noticias, judiciales, deportes, clasificados, política (pueden llevar hipervínculo los menús)
+
+ 
+
+*Una sección :
+
+- lado izquierdo: sección informativa un título y párrafo y en la derecha una imagen con su explicación
+
+ 
+
+*Otra sección* debajo:
+
+- lado Derecho: sección informativa un titulo y párrafo  y en la izquierda una imagen en grande
+
+ 
+
+*Otra sección* debajo:
+
+- columnas iguales: párrafo con titulo en ambas columnas con sus imagenes
+
+ 
+
+* en la parte de abajo un footer
+
+* que abarque las 12 columnas con la información de la empresa, dirección, teléfono y url del sitio web
